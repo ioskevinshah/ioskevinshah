@@ -1,7 +1,6 @@
 # 👨‍💻 Kevin Shah
 
 **Senior iOS, iPadOS, watchOS & macOS Catalyst Developer**  
-📍 Remote | 🇺🇸 United States | 🇮🇳 India  
 📧 ioskevinshah@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-shah-634ba214a/)
 
