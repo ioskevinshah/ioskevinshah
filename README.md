@@ -61,7 +61,7 @@ _A comprehensive calorie counter and diet tracking app for health-conscious user
 Swift, SwiftUI, Dart (Flutter)
 
 **Frameworks & APIs:**  
-HealthKit, SiriKit, CoreML, VisionKit, ARKit, StoreKit, Swift Charts
+Apple Foundation Models(LLM), HealthKit, SiriKit, CoreML, VisionKit, ARKit, StoreKit, Swift Charts
 
 **App Extensions:**  
 Widgets, Share Extension, iMessage, Rich Notifications, Siri Integration
