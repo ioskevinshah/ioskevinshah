@@ -1,8 +1,8 @@
 # 👨‍💻 Kevin Shah
 
 **Senior iOS, iPadOS, watchOS & macOS Catalyst Developer**  
-📧 ioskevinshah@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kevin-shah-634ba214a/)
+📧 ioskevinshah@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/kevin-shah)
 
 ---
 
