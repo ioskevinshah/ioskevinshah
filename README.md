@@ -44,7 +44,14 @@ _A cross-platform voice messaging app for quick async communication_
 ### 👤 [**Contact Poster Pro**](https://apps.apple.com/app/contact-poster-pro/id6450102671)  
 _Create stunning iOS 17 contact posters using AI and advanced design tools_  
 - Tech: **Vision**, **CoreML**, **In-App Purchases**  
-- 📈 Featured in India & US, $30K+ acquisition offers, coverage by 11M+ YouTuber & TechTimes
+- 📍 Popular in both **U.S. and Indian markets**  
+- 💰 **Received acquisition offers up to $30,000**  
+- 📣 **Featured by a U.S.-based YouTuber** with **11M+ subscribers**  
+  → [Watch the mention on YouTube (timestamped)](https://youtu.be/xgslbycdTPw?si=v6KngKV-ZzzYbiJM&t=716)  
+- 📱 Gained traction through a viral **Instagram Reel**  
+  → [Watch Reel](https://www.instagram.com/reel/CzMEdEVolL2/)  
+- 📰 Covered in **TechTimes** for its creative impact on digital identity  
+  → [Read Article](https://www.techtimes.com/articles/296680/20230921/first-ring-lasting-impact-how-to-create-unforgettable-first-impressions-with-contact-poster-pro.htm)
 
 ### 🍎 [**Calory AI**](https://apps.apple.com/app/id1441252752)  
 _A comprehensive calorie counter and diet tracking app for health-conscious users_  
